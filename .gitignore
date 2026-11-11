@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+attendance.csv
+students.csv
+face_dataset/
+unknown_faces/
+temp.jpg
+.env
+.env.*
+.DS_Store
